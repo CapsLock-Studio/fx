@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+	"devDependencies": {
+		"eslint": "^8.13.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-import-resolver-node": "^0.3.6",
+		"eslint-plugin-import": "^2.26.0"
+	},
+	"dependencies": {
+		"axios": "^0.26.1",
+		"koa": "^2.13.4",
+		"koa-compress": "^5.1.0",
+		"koa-helmet": "^6.1.0",
+		"lru": "^3.1.0"
+	}
+}
